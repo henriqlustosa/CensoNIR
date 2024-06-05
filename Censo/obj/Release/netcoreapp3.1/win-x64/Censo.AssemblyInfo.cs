@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Censo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e2078f40cb50e83da86c29accd60cd6fab900eb2")]
 [assembly: System.Reflection.AssemblyProductAttribute("Censo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Censo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

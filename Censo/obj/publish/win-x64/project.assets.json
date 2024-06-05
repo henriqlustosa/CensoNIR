@@ -5,10 +5,14 @@
       "Newtonsoft.Json/13.0.2-beta1": {
         "type": "package",
         "compile": {
-          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
         }
       }
     },
@@ -16,10 +20,14 @@
       "Newtonsoft.Json/13.0.2-beta1": {
         "type": "package",
         "compile": {
-          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
         }
       }
     }
@@ -68,11 +76,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\h013026\\OneDrive - Default Directory\\Workspace_Censo_C#\\Censo\\Censo\\Censo.csproj",
+      "projectUniqueName": "G:\\OneDrive - Default Directory\\OneDrive - rede.sp\\Workspace_Censo_C#\\Censo\\Censo\\Censo.csproj",
       "projectName": "Censo",
-      "projectPath": "C:\\Users\\h013026\\OneDrive - Default Directory\\Workspace_Censo_C#\\Censo\\Censo\\Censo.csproj",
+      "projectPath": "G:\\OneDrive - Default Directory\\OneDrive - rede.sp\\Workspace_Censo_C#\\Censo\\Censo\\Censo.csproj",
       "packagesPath": "C:\\Users\\h013026\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\h013026\\OneDrive - Default Directory\\Workspace_Censo_C#\\Censo\\Censo\\obj\\publish\\win-x64\\",
+      "outputPath": "G:\\OneDrive - Default Directory\\OneDrive - rede.sp\\Workspace_Censo_C#\\Censo\\Censo\\obj\\publish\\win-x64\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -86,6 +94,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -98,6 +107,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -115,22 +129,27 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
         "downloadDependencies": [
           {
             "name": "Microsoft.AspNetCore.App.Runtime.win-x64",
-            "version": "[3.1.25, 3.1.25]"
+            "version": "[3.1.32, 3.1.32]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[3.1.32, 3.1.32]"
           },
           {
             "name": "Microsoft.NETCore.App.Runtime.win-x64",
-            "version": "[3.1.25, 3.1.25]"
+            "version": "[3.1.32, 3.1.32]"
           },
           {
             "name": "Microsoft.WindowsDesktop.App.Runtime.win-x64",
-            "version": "[3.1.25, 3.1.25]"
+            "version": "[3.1.32, 3.1.32]"
           }
         ],
         "frameworkReferences": {
@@ -138,7 +157,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
       }
     },
     "runtimes": {

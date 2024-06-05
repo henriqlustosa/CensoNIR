@@ -36,3 +36,4 @@ G:\OneDrive - Default Directory\OneDrive - rede.sp\Workspace_Censo_C#\Censo\Cens
 G:\OneDrive - Default Directory\OneDrive - rede.sp\Workspace_Censo_C#\Censo\Censo\obj\Debug\netcoreapp3.1\Censo.dll
 G:\OneDrive - Default Directory\OneDrive - rede.sp\Workspace_Censo_C#\Censo\Censo\obj\Debug\netcoreapp3.1\Censo.pdb
 G:\OneDrive - Default Directory\OneDrive - rede.sp\Workspace_Censo_C#\Censo\Censo\obj\Debug\netcoreapp3.1\Censo.genruntimeconfig.cache
+G:\OneDrive - Default Directory\OneDrive - rede.sp\Workspace_Censo_C#\Censo\Censo\obj\Debug\netcoreapp3.1\Censo.sourcelink.json
