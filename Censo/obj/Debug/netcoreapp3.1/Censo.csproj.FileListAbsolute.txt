@@ -1,0 +1,38 @@
+C:\Users\h013026\OneDrive - Default Directory\Workspace_Censo_C#\Censo\Censo\bin\Debug\netcoreapp3.1\Censo.exe
+C:\Users\h013026\OneDrive - Default Directory\Workspace_Censo_C#\Censo\Censo\bin\Debug\netcoreapp3.1\Censo.deps.json
+C:\Users\h013026\OneDrive - Default Directory\Workspace_Censo_C#\Censo\Censo\bin\Debug\netcoreapp3.1\Censo.runtimeconfig.json
+C:\Users\h013026\OneDrive - Default Directory\Workspace_Censo_C#\Censo\Censo\bin\Debug\netcoreapp3.1\Censo.runtimeconfig.dev.json
+C:\Users\h013026\OneDrive - Default Directory\Workspace_Censo_C#\Censo\Censo\bin\Debug\netcoreapp3.1\Censo.dll
+C:\Users\h013026\OneDrive - Default Directory\Workspace_Censo_C#\Censo\Censo\bin\Debug\netcoreapp3.1\Censo.pdb
+C:\Users\h013026\OneDrive - Default Directory\Workspace_Censo_C#\Censo\Censo\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\h013026\OneDrive - Default Directory\Workspace_Censo_C#\Censo\Censo\obj\Debug\netcoreapp3.1\Censo.csproj.AssemblyReference.cache
+C:\Users\h013026\OneDrive - Default Directory\Workspace_Censo_C#\Censo\Censo\obj\Debug\netcoreapp3.1\Censo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\h013026\OneDrive - Default Directory\Workspace_Censo_C#\Censo\Censo\obj\Debug\netcoreapp3.1\Censo.AssemblyInfoInputs.cache
+C:\Users\h013026\OneDrive - Default Directory\Workspace_Censo_C#\Censo\Censo\obj\Debug\netcoreapp3.1\Censo.AssemblyInfo.cs
+C:\Users\h013026\OneDrive - Default Directory\Workspace_Censo_C#\Censo\Censo\obj\Debug\netcoreapp3.1\Censo.csproj.CoreCompileInputs.cache
+C:\Users\h013026\OneDrive - Default Directory\Workspace_Censo_C#\Censo\Censo\obj\Debug\netcoreapp3.1\Censo.csproj.CopyComplete
+C:\Users\h013026\OneDrive - Default Directory\Workspace_Censo_C#\Censo\Censo\obj\Debug\netcoreapp3.1\Censo.dll
+C:\Users\h013026\OneDrive - Default Directory\Workspace_Censo_C#\Censo\Censo\obj\Debug\netcoreapp3.1\Censo.pdb
+C:\Users\h013026\OneDrive - Default Directory\Workspace_Censo_C#\Censo\Censo\obj\Debug\netcoreapp3.1\Censo.genruntimeconfig.cache
+C:\Users\h013026\OneDrive - Default Directory\Workspace_Censo_C#\Censo\Censo\bin\Debug\netcoreapp3.1\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\h013026\OneDrive - Default Directory\Workspace_Censo_C#\Censo\Censo\obj\Debug\netcoreapp3.1\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\h013026\OneDrive - Default Directory\Workspace_Censo_C#\Censo\Censo\obj\Debug\netcoreapp3.1\Censo.csproj.ResolveComReference.cache
+G:\OneDrive - Default Directory\OneDrive - rede.sp\Workspace_Censo_C#\Censo\Censo\bin\Debug\netcoreapp3.1\Censo.exe
+G:\OneDrive - Default Directory\OneDrive - rede.sp\Workspace_Censo_C#\Censo\Censo\bin\Debug\netcoreapp3.1\Censo.deps.json
+G:\OneDrive - Default Directory\OneDrive - rede.sp\Workspace_Censo_C#\Censo\Censo\bin\Debug\netcoreapp3.1\Censo.runtimeconfig.json
+G:\OneDrive - Default Directory\OneDrive - rede.sp\Workspace_Censo_C#\Censo\Censo\bin\Debug\netcoreapp3.1\Censo.runtimeconfig.dev.json
+G:\OneDrive - Default Directory\OneDrive - rede.sp\Workspace_Censo_C#\Censo\Censo\bin\Debug\netcoreapp3.1\Censo.dll
+G:\OneDrive - Default Directory\OneDrive - rede.sp\Workspace_Censo_C#\Censo\Censo\bin\Debug\netcoreapp3.1\Censo.pdb
+G:\OneDrive - Default Directory\OneDrive - rede.sp\Workspace_Censo_C#\Censo\Censo\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+G:\OneDrive - Default Directory\OneDrive - rede.sp\Workspace_Censo_C#\Censo\Censo\bin\Debug\netcoreapp3.1\Interop.Microsoft.Office.Interop.Excel.dll
+G:\OneDrive - Default Directory\OneDrive - rede.sp\Workspace_Censo_C#\Censo\Censo\obj\Debug\netcoreapp3.1\Censo.csproj.AssemblyReference.cache
+G:\OneDrive - Default Directory\OneDrive - rede.sp\Workspace_Censo_C#\Censo\Censo\obj\Debug\netcoreapp3.1\Interop.Microsoft.Office.Interop.Excel.dll
+G:\OneDrive - Default Directory\OneDrive - rede.sp\Workspace_Censo_C#\Censo\Censo\obj\Debug\netcoreapp3.1\Censo.csproj.ResolveComReference.cache
+G:\OneDrive - Default Directory\OneDrive - rede.sp\Workspace_Censo_C#\Censo\Censo\obj\Debug\netcoreapp3.1\Censo.GeneratedMSBuildEditorConfig.editorconfig
+G:\OneDrive - Default Directory\OneDrive - rede.sp\Workspace_Censo_C#\Censo\Censo\obj\Debug\netcoreapp3.1\Censo.AssemblyInfoInputs.cache
+G:\OneDrive - Default Directory\OneDrive - rede.sp\Workspace_Censo_C#\Censo\Censo\obj\Debug\netcoreapp3.1\Censo.AssemblyInfo.cs
+G:\OneDrive - Default Directory\OneDrive - rede.sp\Workspace_Censo_C#\Censo\Censo\obj\Debug\netcoreapp3.1\Censo.csproj.CoreCompileInputs.cache
+G:\OneDrive - Default Directory\OneDrive - rede.sp\Workspace_Censo_C#\Censo\Censo\obj\Debug\netcoreapp3.1\Censo.csproj.Up2Date
+G:\OneDrive - Default Directory\OneDrive - rede.sp\Workspace_Censo_C#\Censo\Censo\obj\Debug\netcoreapp3.1\Censo.dll
+G:\OneDrive - Default Directory\OneDrive - rede.sp\Workspace_Censo_C#\Censo\Censo\obj\Debug\netcoreapp3.1\Censo.pdb
+G:\OneDrive - Default Directory\OneDrive - rede.sp\Workspace_Censo_C#\Censo\Censo\obj\Debug\netcoreapp3.1\Censo.genruntimeconfig.cache
