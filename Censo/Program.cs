@@ -15,6 +15,10 @@ namespace Censo
 {
     class Program
     {
+        public static DateTime SafeConvertToDateTime(object value, DateTime defaultValue)
+        {
+            return value != DBNull.Value ? Convert.ToDateTime(value) : defaultValue;
+        }
         private const string URL = "http://intranethspm:5003/hspmsgh-api/censoNepi/";
         public static System.Data.DataTable CreateDataTable(List<Censo> arr)
         {
@@ -107,25 +111,34 @@ namespace Censo
                 {
                     workSheet.Cells[1, i + 1] = dataCenso.Columns[i].ColumnName;
                 }
-
+                DateTime dateValue;
+                String dateValueString;
                 // rows
+
                 for (var i = 0; i < dataCenso.Rows.Count; i++)
                 {
                     // to do: format datetime values before printing
                     for (var j = 0; j < dataCenso.Columns.Count; j++)
                     {
-                        /* if (j==9 || j == 10 || j == 13 || j == 24 || j == 25  )
-                         {
-                             var dt = dataCenso.Rows[i][j];
-                             workSheet.Cells[i + 2, j + 1] = Convert.ToDateTime(dataCenso.Rows[i][j]);
-
+                        if (j == 2 || j == 8 || j == 16)
+                        {
+                            dateValue = SafeConvertToDateTime(dataCenso.Rows[i][j], DateTime.MinValue);
+                            if (dateValue.Equals(DateTime.MinValue))
+                            {
+                                dateValueString = "";
+                                workSheet.Cells[i + 2, j + 1] = dateValueString;
+                            }
+                            else
+                            {
+                                workSheet.Cells[i + 2, j + 1] = dateValue;
+                            }
                          }
                          else
-                         {*/
+                        { 
                         workSheet.Cells[i + 2, j + 1] = dataCenso.Rows[i][j];
 
 
-                        // }
+                        }
                     }
                 }
 
@@ -167,6 +180,7 @@ namespace Censo
 
 
         }
+        
 
 
     }
@@ -175,7 +189,7 @@ namespace Censo
 
 
 
-
+ 
 
 
     public class Censo
@@ -231,4 +245,6 @@ namespace Censo
         }
 
     }
+    // Using a method to handle the conversion with null checks
+   
 }
