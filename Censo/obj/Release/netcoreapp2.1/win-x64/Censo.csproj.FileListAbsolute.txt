@@ -1,0 +1,17 @@
+\\hspmcac007\G$\OneDrive - Default Directory\OneDrive - rede.sp\Workspace_Censo_2025\CensoNIR\Censo\Executavel\netcoreapp2.1\win-x64\hostpolicy.dll
+\\hspmcac007\G$\OneDrive - Default Directory\OneDrive - rede.sp\Workspace_Censo_2025\CensoNIR\Censo\Executavel\netcoreapp2.1\win-x64\hostfxr.dll
+\\hspmcac007\G$\OneDrive - Default Directory\OneDrive - rede.sp\Workspace_Censo_2025\CensoNIR\Censo\Executavel\netcoreapp2.1\win-x64\Censo.exe
+\\hspmcac007\G$\OneDrive - Default Directory\OneDrive - rede.sp\Workspace_Censo_2025\CensoNIR\Censo\Executavel\netcoreapp2.1\win-x64\Censo.deps.json
+\\hspmcac007\G$\OneDrive - Default Directory\OneDrive - rede.sp\Workspace_Censo_2025\CensoNIR\Censo\Executavel\netcoreapp2.1\win-x64\Censo.runtimeconfig.json
+\\hspmcac007\G$\OneDrive - Default Directory\OneDrive - rede.sp\Workspace_Censo_2025\CensoNIR\Censo\Executavel\netcoreapp2.1\win-x64\Censo.runtimeconfig.dev.json
+\\hspmcac007\G$\OneDrive - Default Directory\OneDrive - rede.sp\Workspace_Censo_2025\CensoNIR\Censo\Executavel\netcoreapp2.1\win-x64\Censo.dll
+\\hspmcac007\G$\OneDrive - Default Directory\OneDrive - rede.sp\Workspace_Censo_2025\CensoNIR\Censo\Executavel\netcoreapp2.1\win-x64\Censo.pdb
+\\hspmcac007\G$\OneDrive - Default Directory\OneDrive - rede.sp\Workspace_Censo_2025\CensoNIR\Censo\Executavel\netcoreapp2.1\win-x64\Interop.Microsoft.Office.Interop.Excel.dll
+\\hspmcac007\G$\OneDrive - Default Directory\OneDrive - rede.sp\Workspace_Censo_2025\CensoNIR\Censo\obj\Release\netcoreapp2.1\win-x64\Censo.csprojAssemblyReference.cache
+\\hspmcac007\G$\OneDrive - Default Directory\OneDrive - rede.sp\Workspace_Censo_2025\CensoNIR\Censo\obj\Release\netcoreapp2.1\win-x64\Interop.Microsoft.Office.Interop.Excel.dll
+\\hspmcac007\G$\OneDrive - Default Directory\OneDrive - rede.sp\Workspace_Censo_2025\CensoNIR\Censo\obj\Release\netcoreapp2.1\win-x64\Censo.csproj.ResolveComReference.cache
+\\hspmcac007\G$\OneDrive - Default Directory\OneDrive - rede.sp\Workspace_Censo_2025\CensoNIR\Censo\obj\Release\netcoreapp2.1\win-x64\Censo.csproj.CoreCompileInputs.cache
+\\hspmcac007\G$\OneDrive - Default Directory\OneDrive - rede.sp\Workspace_Censo_2025\CensoNIR\Censo\obj\Release\netcoreapp2.1\win-x64\Censo.AssemblyInfoInputs.cache
+\\hspmcac007\G$\OneDrive - Default Directory\OneDrive - rede.sp\Workspace_Censo_2025\CensoNIR\Censo\obj\Release\netcoreapp2.1\win-x64\Censo.AssemblyInfo.cs
+\\hspmcac007\G$\OneDrive - Default Directory\OneDrive - rede.sp\Workspace_Censo_2025\CensoNIR\Censo\obj\Release\netcoreapp2.1\win-x64\Censo.dll
+\\hspmcac007\G$\OneDrive - Default Directory\OneDrive - rede.sp\Workspace_Censo_2025\CensoNIR\Censo\obj\Release\netcoreapp2.1\win-x64\Censo.pdb

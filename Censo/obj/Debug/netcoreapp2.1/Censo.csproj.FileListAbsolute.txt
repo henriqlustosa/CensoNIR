@@ -1,0 +1,14 @@
+\\hspmcac007\G$\OneDrive - Default Directory\OneDrive - rede.sp\Workspace_Censo_2025\CensoNIR\Censo\bin\Debug\netcoreapp2.1\Censo.deps.json
+\\hspmcac007\G$\OneDrive - Default Directory\OneDrive - rede.sp\Workspace_Censo_2025\CensoNIR\Censo\bin\Debug\netcoreapp2.1\Censo.runtimeconfig.json
+\\hspmcac007\G$\OneDrive - Default Directory\OneDrive - rede.sp\Workspace_Censo_2025\CensoNIR\Censo\bin\Debug\netcoreapp2.1\Censo.runtimeconfig.dev.json
+\\hspmcac007\G$\OneDrive - Default Directory\OneDrive - rede.sp\Workspace_Censo_2025\CensoNIR\Censo\bin\Debug\netcoreapp2.1\Censo.dll
+\\hspmcac007\G$\OneDrive - Default Directory\OneDrive - rede.sp\Workspace_Censo_2025\CensoNIR\Censo\bin\Debug\netcoreapp2.1\Censo.pdb
+\\hspmcac007\G$\OneDrive - Default Directory\OneDrive - rede.sp\Workspace_Censo_2025\CensoNIR\Censo\bin\Debug\netcoreapp2.1\Interop.Microsoft.Office.Interop.Excel.dll
+\\hspmcac007\G$\OneDrive - Default Directory\OneDrive - rede.sp\Workspace_Censo_2025\CensoNIR\Censo\obj\Debug\netcoreapp2.1\Censo.csprojAssemblyReference.cache
+\\hspmcac007\G$\OneDrive - Default Directory\OneDrive - rede.sp\Workspace_Censo_2025\CensoNIR\Censo\obj\Debug\netcoreapp2.1\Interop.Microsoft.Office.Interop.Excel.dll
+\\hspmcac007\G$\OneDrive - Default Directory\OneDrive - rede.sp\Workspace_Censo_2025\CensoNIR\Censo\obj\Debug\netcoreapp2.1\Censo.csproj.ResolveComReference.cache
+\\hspmcac007\G$\OneDrive - Default Directory\OneDrive - rede.sp\Workspace_Censo_2025\CensoNIR\Censo\obj\Debug\netcoreapp2.1\Censo.csproj.CoreCompileInputs.cache
+\\hspmcac007\G$\OneDrive - Default Directory\OneDrive - rede.sp\Workspace_Censo_2025\CensoNIR\Censo\obj\Debug\netcoreapp2.1\Censo.AssemblyInfoInputs.cache
+\\hspmcac007\G$\OneDrive - Default Directory\OneDrive - rede.sp\Workspace_Censo_2025\CensoNIR\Censo\obj\Debug\netcoreapp2.1\Censo.AssemblyInfo.cs
+\\hspmcac007\G$\OneDrive - Default Directory\OneDrive - rede.sp\Workspace_Censo_2025\CensoNIR\Censo\obj\Debug\netcoreapp2.1\Censo.dll
+\\hspmcac007\G$\OneDrive - Default Directory\OneDrive - rede.sp\Workspace_Censo_2025\CensoNIR\Censo\obj\Debug\netcoreapp2.1\Censo.pdb
