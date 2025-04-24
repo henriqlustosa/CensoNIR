@@ -76,37 +76,50 @@ namespace Censo
             System.Data.DataTable dt = new System.Data.DataTable();
 
             if (censos.Count == 0) return dt;
-
-            dt.Columns.Add("nr_quarto");
-            dt.Columns.Add("nm_unidade_funcional");
-            dt.Columns.Add("dt_internacao_data");
-            dt.Columns.Add("dt_internacao_hora");
             dt.Columns.Add("cd_prontuario");
             dt.Columns.Add("nm_paciente");
-            dt.Columns.Add("in_sexo");
-            dt.Columns.Add("nr_idade");
             dt.Columns.Add("dt_nascimento");
-            dt.Columns.Add("vinculo");
+            dt.Columns.Add("nr_quarto");
+            dt.Columns.Add("dt_internacao_data");
+            dt.Columns.Add("dt_internacao_hora");
             dt.Columns.Add("nm_especialidade");
             dt.Columns.Add("nm_medico");
-            dt.Columns.Add("cod_CID");
-            dt.Columns.Add("descricaoCID");
-            dt.Columns.Add("tempo");
-            dt.Columns.Add("nm_origem");
             dt.Columns.Add("dt_ultimo_evento_data");
             dt.Columns.Add("dt_ultimo_evento_hora");
+            dt.Columns.Add("nm_origem");
             dt.Columns.Add("nr_convenio");
-
+            dt.Columns.Add("in_sexo");
+            dt.Columns.Add("nr_idade");
+            dt.Columns.Add("cod_CID");
+            dt.Columns.Add("descricaoCID");
+            dt.Columns.Add("nm_unidade_funcional");
+            dt.Columns.Add("tempo");
+            dt.Columns.Add("vinculo");
             foreach (var censo in censos)
             {
                 dt.Rows.Add(
-                    censo.nr_quarto, censo.nm_unidade_funcional, censo.dt_internacao_data,
-                    censo.dt_internacao_hora, censo.cd_prontuario, censo.nm_paciente, censo.in_sexo,
-                    censo.nr_idade, censo.dt_nascimento, censo.vinculo, censo.nm_especialidade,
-                    censo.nm_medico, censo.cod_CID, censo.descricaoCID, censo.tempo, censo.nm_origem,
-                    censo.dt_ultimo_evento_data, censo.dt_ultimo_evento_hora, censo.nr_convenio
+                    censo.cd_prontuario,
+                    censo.nm_paciente,
+                    censo.dt_nascimento,
+                    censo.nr_quarto,
+                    censo.dt_internacao_data,
+                    censo.dt_internacao_hora,
+                    censo.nm_especialidade,
+                    censo.nm_medico,
+                    censo.dt_ultimo_evento_data,
+                    censo.dt_ultimo_evento_hora,
+                    censo.nm_origem,
+                    censo.nr_convenio,
+                    censo.in_sexo,
+                    censo.nr_idade,
+                    censo.cod_CID,
+                    censo.descricaoCID,
+                    censo.nm_unidade_funcional,
+                    censo.tempo,
+                    censo.vinculo
                 );
             }
+
 
             return dt;
         }
@@ -156,7 +169,7 @@ namespace Censo
                     {
                         for (int col = 0; col < dataTable.Columns.Count; col++)
                         {
-                            if (col == 2 || col == 8 || col == 16) // Columns with dates
+                            if (col == 2 || col == 4 || col == 8) // Columns with dates
                             {
                                 DateTime dateValue = SafeConvertToDateTime(dataTable.Rows[row][col], DateTime.MinValue);
                                 if (dateValue.Equals(DateTime.MinValue))
